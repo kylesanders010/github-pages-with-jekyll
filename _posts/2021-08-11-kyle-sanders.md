@@ -1,4 +1,4 @@
 ---
-title: "Kyle_Sanders"
-date:  2021-08-11
+title: "Kyle Sanders"
+date: 2021-08-11
 ---
